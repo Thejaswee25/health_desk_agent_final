@@ -1,0 +1,7 @@
+flask
+flask_sqlalchemy
+openai
+SpeechRecognition
+gTTS
+playsound
+bootstrap
